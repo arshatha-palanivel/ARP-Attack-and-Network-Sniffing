@@ -64,4 +64,4 @@ Invoke the wireshark and examine the various menus  and controls of the tool:
 ![428029676-d6bbf7f6-dd07-4024-b0cc-82e3d625b755](https://github.com/user-attachments/assets/dfb5a916-50f0-477a-a27d-d1636a6d0291)
 
 ## RESULT:
-The kali linux tools for ARP Attack and Network Sniffing were identified successfully
+The kali linux tools for ARP Attack and Network Sniffing were identified successfully.
